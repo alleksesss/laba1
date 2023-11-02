@@ -11,4 +11,4 @@
 
 ### Вариант 8
 
-![image] (./variant.jpg)
+![image](./variant.jpg)
